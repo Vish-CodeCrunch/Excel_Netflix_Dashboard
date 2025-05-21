@@ -132,10 +132,10 @@ Please follow the [Code of Conduct](CODE_OF_CONDUCT.md) and align with the proje
 ## 📬 Contact
 
 Have questions or ideas? Reach out!  
-- **GitHub**: [your-username](https://github.com/Vish-CodeCrunch)  
+- **GitHub**: [Vish-CodeCrunch](https://github.com/Vish-CodeCrunch)  
 - **Email**: [vishal.ds7428@gmail.com](mailto:vishal.ds7428@gmail.com)  
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/vishaldstech/)  
-- **X**: [@your-username](https://x.com/Vishal_Datavibe)  
+- **LinkedIn**: [vishaldstech](https://www.linkedin.com/in/vishaldstech/)  
+- **X**: [@Vishal_Datavibe](https://x.com/Vishal_Datavibe)  
 
 I’d love to hear your feedback or chat about Netflix trends! 🎥
 
