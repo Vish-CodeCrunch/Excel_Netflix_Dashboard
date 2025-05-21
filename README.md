@@ -25,7 +25,7 @@ Welcome to the **Netflix Dashboard Analysis**! This project offers an Excel dash
 
 ## 🌟 Overview
 
-This project provides a deep dive into Netflix original movies through an Excel dashboard (`NetflixOriginals.xlsx`). It includes:  
+This project provides a deep dive into Netflix movies through an Excel dashboard (`NetflixOriginals.xlsx`). It includes:  
 - 📊 Raw data on movie titles, genres, premiere dates, runtimes, IMDB scores, and languages.  
 - 📈 Pivot tables summarizing trends by genre, language, year, and more.  
 - 🔍 Key insights into Netflix’s content production from 2014 to 2021.  
