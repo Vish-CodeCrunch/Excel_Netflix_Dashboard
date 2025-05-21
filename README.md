@@ -1,12 +1,12 @@
-# 🎬 Netflix Originals Dashboard Analysis
+# 🎬 Netflix Dashboard Analysis
 
 ![Netflix Logo](https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg)  
-*Dive into Netflix Original Movies with an Interactive Excel Dashboard!*  
+*Dive into Netflix Movies with an Interactive Excel Dashboard!*  
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
-Welcome to the **Netflix Originals Dashboard Analysis**! This project offers an Excel dashboard (`NetflixOriginals.xlsx`) to explore Netflix original movies from 2014 to 2021. Packed with raw data, pivot tables, and insights, it’s perfect for data analysts, Netflix fans, or anyone curious about streaming trends—all within Excel! 🍿
+Welcome to the **Netflix Dashboard Analysis**! This project offers an Excel dashboard (`NetflixOriginals.xlsx`) to explore Netflix original movies from 2014 to 2021. Packed with raw data, pivot tables, and insights, it’s perfect for data analysts, Netflix fans, or anyone curious about streaming trends—all within Excel! 🍿
 
 ---
 
