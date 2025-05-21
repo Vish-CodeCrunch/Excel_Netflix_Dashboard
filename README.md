@@ -124,9 +124,7 @@ We’d love your contributions! To get started:
 3. Make your changes and commit (`git commit -m "Add your feature"`).  
 4. Push to your branch (`git push origin feature/your-feature`).  
 5. Create a pull request 📬.  
-
-Please follow the [Code of Conduct](CODE_OF_CONDUCT.md) and align with the project’s goals.  
-
+ 
 ---
 
 ## 📬 Contact
