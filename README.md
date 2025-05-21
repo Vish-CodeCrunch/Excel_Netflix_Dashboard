@@ -97,7 +97,7 @@ Get started in a few simple steps:
 
 1. **Clone the Repository** 📥:  
    ```bash
-   git clone https://github.com/your-username/netflix-originals-dashboard.git
+   git clone https://github.com/Vish-CodeCrunch/Excel_Netflix_Dashboard.git
    cd netflix-originals-dashboard
    ```
 
@@ -132,10 +132,10 @@ Please follow the [Code of Conduct](CODE_OF_CONDUCT.md) and align with the proje
 ## 📬 Contact
 
 Have questions or ideas? Reach out!  
-- **GitHub**: [your-username](https://github.com/your-username)  
-- **Email**: [your-email@example.com](mailto:your-email@example.com)  
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)  
-- **X**: [@your-username](https://x.com/your-username)  
+- **GitHub**: [your-username](https://github.com/Vish-CodeCrunch)  
+- **Email**: [your-email@example.com](mailto:vishal.ds7428@gmail.com)  
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/vishaldstech/)  
+- **X**: [@your-username](https://x.com/Vishal_Datavibe)  
 
 I’d love to hear your feedback or chat about Netflix trends! 🎥
 
